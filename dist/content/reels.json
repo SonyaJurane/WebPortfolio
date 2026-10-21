@@ -1,0 +1,90 @@
+[
+  {
+    "id": "vivaia-rhoda",
+    "brand": "VIVAIA",
+    "title": "VIVAIA — RHODA",
+    "label": "RHODA shoes",
+    "durationLabel": "0:29",
+    "posterAlt": "Sonya presenting RHODA shoes in a collaboration with VIVAIA",
+    "video": "assets/reels/vivaia-rhoda.mp4",
+    "poster": "assets/reels/vivaia-rhoda-poster.jpg",
+    "instagram": null,
+    "referenceLinks": [
+      "https://www.instagram.com/reel/DcygBgvMvI2/",
+      "https://www.instagram.com/reel/DdB4brGMT1g/"
+    ],
+    "kind": "Brand collaboration"
+  },
+  {
+    "id": "vivaia-aida",
+    "brand": "VIVAIA",
+    "title": "VIVAIA — AIDA",
+    "label": "AIDA shoes",
+    "durationLabel": "0:24",
+    "posterAlt": "Sonya presenting AIDA shoes in a collaboration with VIVAIA",
+    "video": "assets/reels/vivaia-aida.mp4",
+    "poster": "assets/reels/vivaia-aida-poster.jpg",
+    "instagram": null,
+    "kind": "Brand collaboration"
+  },
+  {
+    "id": "coloc-1",
+    "brand": "Coloc",
+    "title": "Coloc — Film 01",
+    "label": "Brand collaboration · 01",
+    "durationLabel": "0:40",
+    "posterAlt": "A frame from Sonya’s first Coloc collaboration",
+    "video": "assets/reels/coloc-1.mp4",
+    "poster": "assets/reels/coloc-1-poster.jpg",
+    "instagram": null,
+    "kind": "Brand collaboration"
+  },
+  {
+    "id": "coloc-2",
+    "brand": "Coloc",
+    "title": "Coloc — Film 02",
+    "label": "Brand collaboration · 02",
+    "durationLabel": "0:42",
+    "posterAlt": "A frame from Sonya’s second Coloc collaboration",
+    "video": "assets/reels/coloc-2.mp4",
+    "poster": "assets/reels/coloc-2-poster.jpg",
+    "instagram": null,
+    "kind": "Brand collaboration"
+  },
+  {
+    "id": "tour-guy-venice",
+    "brand": "The Tour Guy",
+    "title": "The Tour Guy — Venice",
+    "label": "Venice · Part 1",
+    "durationLabel": "1:31",
+    "posterAlt": "A frame from Sonya’s Venice collaboration with The Tour Guy",
+    "video": "assets/reels/tour-guy-venice.mp4",
+    "poster": "assets/reels/tour-guy-venice-poster.jpg",
+    "instagram": null,
+    "referenceLinks": [
+      "https://www.instagram.com/reel/DaSzI8VMKJT/",
+      "https://www.instagram.com/reel/DafuuGxs_Xr/"
+    ],
+    "kind": "Brand collaboration"
+  },
+  {
+    "id": "night-sky",
+    "brand": "The Night Sky",
+    "title": "The Night Sky",
+    "label": "A personal story",
+    "durationLabel": "0:39",
+    "posterAlt": "The necklace featured in Sonya’s collaboration with The Night Sky",
+    "video": "assets/reels/the-night-sky.mp4",
+    "poster": "assets/reels/the-night-sky-poster.jpg",
+    "instagram": "https://www.instagram.com/reel/Da20slPMi49/",
+    "kind": "Brand collaboration"
+  },
+  {
+    "id": "day-in-life",
+    "brand": "A day in my life",
+    "kind": "Personal content",
+    "video": null,
+    "poster": null,
+    "instagram": "https://www.instagram.com/reel/DcwKLueMqMv/"
+  }
+]

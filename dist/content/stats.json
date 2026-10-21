@@ -1,0 +1,25 @@
+{
+  "sourceNote": "Figures from the supplied media kit. Update before publication.",
+  "updatedAt": null,
+  "headline": {
+    "followers": 13700,
+    "monthlyReach": 1000000,
+    "singlePostSaves": 15995,
+    "topPostViews": 1500000
+  },
+  "gender": [
+    { "label": "Female", "value": 73.4 },
+    { "label": "Male", "value": 26.6 }
+  ],
+  "countries": [
+    { "label": "Italy", "value": 25.6 },
+    { "label": "United States", "value": 16.6 },
+    { "label": "United Kingdom", "value": 5.9 }
+  ],
+  "ages": [
+    { "label": "13–17", "value": 1 },
+    { "label": "18–24", "value": 19 },
+    { "label": "25–34", "value": 46.9 },
+    { "label": "35+", "value": 33 }
+  ]
+}
